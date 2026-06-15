@@ -1,5 +1,7 @@
 # Selenium BDD Restful Booker Framework
 
+[![CI](https://github.com/marcusatreats/selenium_bdd_restful_booker/actions/workflows/ci.yml/badge.svg)](https://github.com/marcusatreats/selenium_bdd_restful_booker/actions/workflows/ci.yml)
+
 A test automation framework built with Selenium, Cucumber BDD, and REST Assured targeting the [Restful Booker Platform](https://automationintesting.online).
 
 ## Tech Stack
